@@ -1,9 +1,9 @@
 # Shoot Game
-#100daysofcode This simple game written with processing3.<br>
-I built another one similar of this with python. Click <a href='https://github.com/mohamedyanis/space-invaders-game'> here </a> to check it!
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+
+#100daysofcode This simple game written with processing3.<br>
+I built another one similar of this with python. Click <a href='https://github.com/mohamedyanis/space-invaders-game'> here </a> to check it!
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
