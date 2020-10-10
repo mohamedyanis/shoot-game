@@ -1,5 +1,5 @@
 # Shoot Game
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 #100daysofcode This simple game written with processing3.<br>
